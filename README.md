@@ -28,16 +28,16 @@ This is a Java-based desktop application built with **JavaFX**, **MySQL**, and *
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshorts/home_screen.png)
+![Home Screen](ExpenseTracker/screenshorts/home_screen.png)
 
 ### Add Expense Form
-![Add Expense](screenshorts/add_expense.png)
+![Add Expense](ExpenseTracker/screenshorts/add_expense.png)
 
 ### View Expenses Table
-![View Expenses](screenshorts/view_expenses.png)
+![View Expenses](ExpenseTracker/screenshorts/view_expenses.png)
 
 ### Monthly Analytics (Bar Chart)
-![Analytics Chart](screenshorts/analytics_chart.png)
+![Analytics Chart](ExpenseTracker/screenshorts/analytics_chart.png)
 
 ---
 
